@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **deploying applications**
 
-- 👨‍💻 All of my projects are available at [~something coming soon!~](~something coming soon!~)
+- 👨‍💻 All of my projects are available at [<something coming soon!>](<something coming soon!>)
 
 - 📝 I regularly write articles on [<also coming soon!>](<also coming soon!>)
 
