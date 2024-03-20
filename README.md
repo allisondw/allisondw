@@ -9,10 +9,6 @@
 
 - 🤝 I’m looking for help with **deploying applications**
 
-- 👨‍💻 All of my projects are available at [<something coming soon!>](<something coming soon!>)
-
-- 📝 I regularly write articles on [<also coming soon!>](<also coming soon!>)
-
 - 💬 Ask me about **UX + SFE**
 
 - 📫 How to reach me **allisonwinters.studio@gmail.com**
