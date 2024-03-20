@@ -3,7 +3,7 @@
 
 - 🔭 I’m currently working on [Sorta, a UI for making glitch art through pixel-sorting](https://github.com/allisondw/Sorta)
 
-- 🌱 I’m currently learning **TypeScript, Redux, & Python DSAs**
+- 🌱 I’m currently learning **TypeScript, Redux, & JavaScript DSAs**
 
 - 👯 I’m looking to collaborate on **iOS development projects!**
 
