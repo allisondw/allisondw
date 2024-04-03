@@ -9,7 +9,7 @@
 
 - 🤝 I’m looking for help with **deploying applications**
 
-- 💬 Ask me about **UX + SFE**
+- 💬 Ask me about **UX + SWE**
 
 - 📫 How to reach me **allisonwinters.studio@gmail.com**
 
