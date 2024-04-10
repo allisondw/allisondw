@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **allisonwinters.studio@gmail.com**
 
-- 📄 Know about my experiences [by checking out my resume](https://docs.google.com/document/d/1etOh_ltqPt4TR8NoUbMPjUulOlgPfhntKpDMDhn5EVc/edit?usp=sharing)
+- 📄 Know about my experiences [by checking out my resume](https://docs.google.com/document/d/1mIiFtWJuHXdMsCvczHHXWF2q86nN9veW4FFXspCwv-8/edit?usp=sharing)
 
 - ⚡ Fun fact **I can reach the top shelf**
 
