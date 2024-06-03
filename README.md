@@ -1,15 +1,15 @@
 <h1 align="center">Hi 👋, I'm Allison Winters</h1>
 <h3 align="center">frontend developer from Los Angeles, CA</h3>
 
-- 🔭 I’m currently working on [Sorta, a UI for making glitch art through pixel-sorting](https://github.com/allisondw/Sorta)
+- 🔭 I’m currently working on [Socks, The Mini-Game](https://github.com/allisondw/socks)
 
 - 🌱 I’m currently learning **TypeScript, Redux, & JavaScript DSAs**
 
-- 👯 I’m looking to collaborate on **iOS development projects!**
+- 👯 I’m looking to collaborate on **game development projects!**
 
-- 🤝 I’m looking for help with **deploying applications**
+- 🤝 I’m looking for help with **mentorship/career guidance**
 
-- 💬 Ask me about **UX + SWE**
+- 💬 Ask me about **hyenas**
 
 - 📫 How to reach me **allisonwinters.studio@gmail.com**
 
