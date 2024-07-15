@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Allison Demirok-Winters</h1>
 <h3 align="center">frontend developer from Los Angeles, CA</h3>
 
-<! -- - 🔭 I’m currently working on [Socks, The Mini-Game](https://github.com/allisondw/socks) --> 
+- 🔭 I’m currently working on [Socks, The Mini-Game](https://github.com/allisondw/socks)
 
 - 🌱 I’m currently learning **C# and Unity**
 
