@@ -1,13 +1,11 @@
 <h1 align="center">Hi 👋, I'm Allison Demirok-Winters</h1>
 <h3 align="center">frontend developer from Los Angeles, CA</h3>
 
-- 🔭 I’m currently working on [Socks, The Mini-Game](https://github.com/allisondw/socks)
+- 🔭 I’m currently working on [Chronoboost](https://www.chronoboost.org/)
 
-- 🌱 I’m currently learning **C# and Unity**
+- 🌱 I’m currently learning **more React 😂**
 
-- 👯 I’m looking to collaborate on **game development projects!**
-
-- 🤝 I’m looking for help with **mentorship/career guidance**
+//* - 🤝 I’m looking for help with **mentorship/career guidance** *//
 
 - 💬 Ask me about **hyenas**
 
