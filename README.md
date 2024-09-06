@@ -5,8 +5,6 @@
 
 - 🌱 I’m currently learning **more React 😂**
 
-//* - 🤝 I’m looking for help with **mentorship/career guidance** *//
-
 - 💬 Ask me about **hyenas**
 
 - 📫 How to reach me **allisonwinters.studio@gmail.com**
