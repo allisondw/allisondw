@@ -22,4 +22,4 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=allisondw&show_icons=true&locale=en" alt="allisondw" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allisondw&" alt="allisondw" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=allisondw" alt="allisondw" /></p>
