@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Allison Demirok-Winters</h1>
-<h3 align="center">frontend developer from Los Angeles, CA</h3>
+<h3 align="center">junior developer from Los Angeles, CA</h3>
 
 - 🔭 I’m currently working on [Chronoboost](https://www.chronoboost.org/)
 
