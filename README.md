@@ -3,13 +3,11 @@
 
 - 🔭 I’m currently working on [Chronoboost](https://www.chronoboost.org/)
 
-- 🌱 I’m currently learning **more React 😂**
-
-- 💬 Ask me about **hyenas**
+- 🌱 I’m currently learning **Python 🐍 + Docker 🐳 + MCP 🕵️**
 
 - 📫 How to reach me **allisonwinters.studio@gmail.com**
 
-- 📄 Know about my experiences [by checking out my resume](https://docs.google.com/document/d/1mIiFtWJuHXdMsCvczHHXWF2q86nN9veW4FFXspCwv-8/edit?usp=sharing)
+- 📄 [Check out my resume](https://docs.google.com/document/d/1mIiFtWJuHXdMsCvczHHXWF2q86nN9veW4FFXspCwv-8/edit?usp=sharing)
 
 - ⚡ Fun fact **I can reach the top shelf**
 
