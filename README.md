@@ -7,7 +7,7 @@
 
 - 🌱 I’m currently learning **Python🐍 + Docker🐳 + MCP🕵️**
 
-- 📝 I might start writing blog posts soon... [but not yet](but not yet)
+- 📝 I might start writing blog posts soon... [but not yet]
 
 - 📫 How to reach me **allisonwinters.studio@gmail.com**
 
